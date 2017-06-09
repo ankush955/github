@@ -1,0 +1,19 @@
+div.pager {
+    padding:25px 25px}
+
+div.pager span {
+    display: inline-table;
+    width: 20px;
+    height: 100%;
+    line-height: 1.8;
+    text-align: center;
+    cursor: pointer;
+    font-weight: 600;
+    background: #583636;
+    color: #e2abc4;
+    margin-right: 0.5em;
+}
+
+div.pager span.active {
+    background: #c00;
+}
